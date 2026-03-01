@@ -2,7 +2,7 @@
 
 #  Hi There 👋, Welcome to the Digital Studio of Sanugi Alwis
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Frontend+Alchemist;Transforming+Coffee+into+UI+Masterpieces;Software+Engineering+Undergrad;I+Make+the+Web+Look+Good" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Frontend+Developer;Transforming+Coffee+into+UI+Masterpieces;Software+Engineering+Undergrad;I+Make+the+Web+Look+Good" alt="Typing SVG" /></a>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN0cGUzMWJ2ZGF3enhjZnkwempiYXdjbGk2bWdhcXg4cTI1OTFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50%" height="200" style="border-radius: 10px; object-fit: cover;" alt="Creative Coding GIF"/>
 
