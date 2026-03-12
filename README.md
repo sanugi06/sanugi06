@@ -2,9 +2,9 @@
 
 #  Hi There 👋, Welcome to the Digital Studio of Sanugi Alwis
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Frontend+Developer;Transforming+Coffee+into+UI+Masterpieces;Software+Engineering+Undergrad;I+Make+the+Web+Look+Good" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Transforming+Coffee+into+UI+Masterpieces;Software+Engineering+Undergrad;I+Make+the+Web+Look+Good" alt="Typing SVG" /></a>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN0cGUzMWJ2ZGF3enhjZnkwempiYXdjbGk2bWdhcXg4cTI1OTFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50%" height="200" style="border-radius: 10px; object-fit: cover;" alt="Creative Coding GIF"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN0cGUzMWJ2ZGF3enhjZnkwempiYXdjbGk2bWdhcXg4cTI1OTFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30%" height="200" style="border-radius: 10px; object-fit: cover;" alt="Creative Coding GIF"/>
 
 *I don't just build websites; I orchestrate digital experiences.*
 
@@ -46,7 +46,7 @@ To build modern masterpieces, you need top-tier tools. Here is what I use to tur
   <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🗄️ **The Vault (Databases)**
+#### 🗄️ **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -55,35 +55,29 @@ To build modern masterpieces, you need top-tier tools. Here is what I use to tur
 </p>
 
 ---
-
 ### My Work
-
 *A curated selection of digital environments where uncompromising design meets scalable architecture.*
 <br/>
-
 <div align="left">
 
+
 #### <kbd>01</kbd>
-<img src="https://img.shields.io/badge/-%20-efcc00?style=flat-square" width="12" height="12" align="center" /> ***High-End Fashion Storefront*** <br>Redefined the digital retail experience by blending editorial fashion aesthetics with interactive web architecture. Engineered with a focus on fluid typography, scroll-triggered micro-interactions, and a frictionless checkout flow.
-<br>
+<img src="https://img.shields.io/badge/-%20-efcc00?style=flat-square" width="12" height="12" align="center" /> ***High-End Fashion Storefront*** <br>Redefined the digital retail experience by blending editorial fashion aesthetics with interactive web architecture. Engineered with a focus on fluid typography, scroll-triggered micro-interactions, and a frictionless checkout flow.<br>
 <sub><b>STACK:</b> JavaScript • PHP • MySQL</sub>
 
 #### <kbd>02</kbd>
 <img src="https://img.shields.io/badge/-%20-dc143c?style=flat-square" width="12" height="12" align="center" /> ***On-Demand Delivery Interface*** <br>
-A high-performance, ultra-responsive application designed for cognitive ease. The UI minimizes the friction between user intent and transaction, utilizing a clean visual hierarchy and state-driven animations to guide the user journey seamlessly.
-<br>
+A high-performance, ultra-responsive application designed for cognitive ease. The UI minimizes the friction between user intent and transaction, utilizing a clean visual hierarchy and state-driven animations to guide the user journey seamlessly.<br>
 <sub><b>STACK:</b> React-Native • NativeWind • Firebase</sub>
 
 #### <kbd>03</kbd>
 <img src="https://img.shields.io/badge/-%20-0000cd?style=flat-square" width="12" height="12" align="center" /> ***Luxury Booking System*** <br>
-Stripped away the traditional, clunky calendar interface to create a minimalist, luxury-inspired booking flow. Built with asynchronous data handling to ensure real-time synchronization wrapped in a buttery-smooth frontend shell.
-<br>
+Stripped away the traditional, clunky calendar interface to create a minimalist, luxury-inspired booking flow. Built with asynchronous data handling to ensure real-time synchronization wrapped in a buttery-smooth frontend shell.<br>
 <sub><b>STACK:</b> React Js • SpringBoot • MySQL</sub>
 
 #### <kbd>04</kbd>
 <img src="https://img.shields.io/badge/-%20-0000cd ?style=flat-square" width="12" height="12" align="center" /> ***Personal Wealth Dashboard*** <br>
-Transformed raw financial data into an engaging, visual narrative. This expense tracking environment relies heavily on modern data visualization techniques, intuitive state management, and an aesthetic that makes interacting with personal finance feel effortless.
-<br>
+Transformed raw financial data into an engaging, visual narrative. This expense tracking environment relies heavily on modern data visualization techniques, intuitive state management, and an aesthetic that makes interacting with personal finance feel effortless.<br>
 <sub><b>STACK:</b> React.js • MongoDB • RESTful APIs</sub>
 
 #### <kbd>05</kbd>
@@ -98,9 +92,9 @@ Proving that heavy-duty B2B tools don't have to be ugly. This sales management s
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanugi06&show_icons=true&theme=radical&hide_border=true&bg_color=0D111" alt="Sanugi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanugi06&show_icons=true&title_color=00A8FF&icon_color=00A8FF&text_color=ffffff&hide_border=true&bg_color=0D1117" alt="Sanugi's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanugi06&theme=radical&hide_border=true&background=0D1117&fire=F77F00&ring=F77F00" alt="Sanugi's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanugi06&hide_border=true&background=0D1117&fire=00A8FF&ring=00A8FF&currStreakLabel=00A8FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="Sanugi's GitHub Streak" />
 </div>
 
 ---
